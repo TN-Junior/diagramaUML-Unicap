@@ -12,7 +12,7 @@ public class Doacao {
             this.itemDoado = itemDoado;
         }
 
-        // Getters e Setters
+        
         public String getDoador() {
             return doador;
         }
